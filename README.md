@@ -1,4 +1,4 @@
-### bom dia pobres 👋
+### oii 👋
 
 <!--
 **nacaxi/nacaxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,3 @@ Here are some ideas to get you started:
 - 🌱 amo animais
 - 👯 gosto de ajudar os mais necessitados
 - 🤔 vivendo intensamente
-- 💬 socioambiental
-- 📫 meu instagram é nata.wmv
-- 😄 Pronouns: ...
-- ⚡ apaixonado pela vida

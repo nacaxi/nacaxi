@@ -1,10 +1,10 @@
-### Sobre mim
+### sobre mim! ✨
 
 - 🔭 apaixonado pela natureza
 - 🌱 amo animais
-- 🌎 meu componente curricular favorito é geografia
+- 🌎 minha disciplina favorita é geografia
 - 🤔 vivendo intensamente
-- ♻️ separar o lixo e reciclar é muito importante
+- ♻️ reciclar corretamente é muito importante
 - 🌆 eu amo paisagens
 
 ![](https://media.tenor.com/abI5HDJesuYAAAAC/new-york-nyc.gif)
